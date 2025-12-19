@@ -1,0 +1,32 @@
+body {
+  font-family: 'Lalezar', cursive;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.image {
+  width: 300px;
+  border-radius: 8px;
+}
+
+.description {
+  text-align: justify;
+}
+
+.example {
+  width: 100%;
+}
+
+.example p {
+  direction: ltr;
+}
+
+.source img {
+  height: 20px;
+}
